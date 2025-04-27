@@ -21,7 +21,7 @@
 </p>
 -->
 
-- [Personal Website](https://dennisturco.github.io/) &ensp;&ensp;
+- [Personal Website](https://dennisturco.com/) &ensp;&ensp;
 - [Personal GitHub](https://github.com/DennisTurco) &ensp;&ensp;
 
 ## 🔭 Development Stats
